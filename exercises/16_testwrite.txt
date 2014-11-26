@@ -1,0 +1,3 @@
+This is the new text
+that should be entered
+into the given file
