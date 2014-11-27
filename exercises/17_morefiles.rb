@@ -1,6 +1,6 @@
 from_file, to_file = ARGV # really, ARGV can be useful for custom scripts
 
-puts "Copying file from ${from_file} to #{to_file}"
+puts "Copying file from #{from_file} to #{to_file}"
 
 in_file = open(from_file)
 indata = in_file.read

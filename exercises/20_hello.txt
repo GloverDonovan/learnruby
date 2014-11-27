@@ -1,0 +1,7 @@
+Hello there.
+I am an example file.
+This file is used to test the Ruby code in exercise 20!
+Pretty cool, right?
+Yeah, totally!
+Wait, you're still here?
+Silly you, get back to programming!
